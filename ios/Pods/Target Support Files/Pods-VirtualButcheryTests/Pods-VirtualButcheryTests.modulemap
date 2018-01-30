@@ -1,0 +1,6 @@
+framework module Pods_VirtualButcheryTests {
+  umbrella header "Pods-VirtualButcheryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
